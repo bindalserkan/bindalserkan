@@ -29,7 +29,7 @@ Aspiring Data Analyst with a strong curiosity in:
 ## 📂 Featured Projects
 - 🚲 **Cyclistic Bike-Share Case Study (R)**  
   End-to-end analysis following Google Data Analytics framework  
-  👉 [View It](https://www.kaggle.com/code/serkanbindal/cyclistic-bike-share-case-study)
+  👉 [View It On Kaggle](https://www.kaggle.com/code/serkanbindal/cyclistic-bike-share-case-study)
 
 ---
 
