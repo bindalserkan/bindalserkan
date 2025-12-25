@@ -33,6 +33,6 @@ Aspiring Data Analyst with a strong curiosity in:
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/bindal-serkan/
-- Email: bindalserkan26@gmail.com
+## 🖌️ My Resume
+
+[View It On My Google Drive](https://bit.ly/3LeXoPs)
