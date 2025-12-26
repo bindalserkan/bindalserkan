@@ -35,4 +35,4 @@ Aspiring Data Analyst with a strong curiosity in:
 
 ## 🖌️ My Resume
 
-[View It On My Google Drive](https://bit.ly/3LeXoPs)
+[View It On My Google Drive](https://bit.ly/4asOXdD)
